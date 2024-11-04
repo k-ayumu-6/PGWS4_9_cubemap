@@ -49,6 +49,10 @@ Material:
         m_Texture: {fileID: 8900000, guid: 74a7bbd3a98cc5c4387a41b6fe9a5b62, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _CubemapAsset_3789d497d33445f38b3f1aabf8c81bc9_Out_0_Cubemap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _DetailAlbedoMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -85,6 +89,10 @@ Material:
         m_Texture: {fileID: 2800000, guid: 11f31e1ad0ca03e46981a6a2dacc0d4a, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_403fe6feb2814d469203fde9a1f039cc_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 11f31e1ad0ca03e46981a6a2dacc0d4a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _SampleTexture2D_5033ff313d5f4499aaa25e3479c05c48_Texture_1_Texture2D:
         m_Texture: {fileID: 2800000, guid: 08d028d2bf23eea4fb3fe63e7f943c7d, type: 3}
         m_Scale: {x: 1, y: 1}
@@ -93,8 +101,20 @@ Material:
         m_Texture: {fileID: 2800000, guid: 7ed874747c95a2b458edc7a4f226c805, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_8cb1d3f715f343c5a856edcc995797eb_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 88e49c5b73900c44f9ab4ad7c550a203, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _SampleTexture2D_a570ac4e87ce417fbdd6e209f0ad5190_Texture_1_Texture2D:
         m_Texture: {fileID: 2800000, guid: 88e49c5b73900c44f9ab4ad7c550a203, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_e54e60b9ea3d4197b462c77d3c30dcad_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 7ed874747c95a2b458edc7a4f226c805, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_e64542f084b840c29ee84283fdbb67c8_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 08d028d2bf23eea4fb3fe63e7f943c7d, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _SpecGlossMap:
